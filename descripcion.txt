@@ -1,0 +1,5 @@
+torre celestial
+consiste en llegar hasta la cima de una torre pasando por laberintos. 
+en cada laberinto hay peleadores que te estaran buscando. 
+si un peleador te ve, te perseguira
+si te alcanza pelearan.. (?);
